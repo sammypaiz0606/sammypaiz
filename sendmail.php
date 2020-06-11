@@ -20,7 +20,7 @@ if( isset($name) && isset($email) && isset($subject) && isset($message) && is_em
 	}
 
 	// Email will be send
-	$to = "mail@mail.com"; // Change with your email address
+	$to = "paizsammy@gmail.com"; // Change with your email address
 	$sub = $subject; // You can define email subject
 	// HTML Elements for Email Body
 	$body = <<<EOD
