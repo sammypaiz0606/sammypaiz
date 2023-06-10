@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 if ($_POST) {
     $name = htmlspecialchars($_POST["name"]);
     $email = htmlspecialchars($_POST["email"]);
@@ -51,7 +51,7 @@ if ($_POST) {
     $emailgo= new TEmail;
     $emailgo->from_email= $email;
     $emailgo->from_name= $name;
-    $emailgo->to_email= 'nikray@yandex.ru'; // Update to your email
+    $emailgo->to_email= 'paizsammy@gmail.com'; // Update to your email
     $emailgo->to_name= '';
     $emailgo->subject= 'Order a photo session'; // Message subject
     $emailgo->body= $message;
@@ -61,4 +61,4 @@ if ($_POST) {
 } else {
     echo 'GET LOST!';
 }
-?>
+?> -->

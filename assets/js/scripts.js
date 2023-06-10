@@ -172,10 +172,10 @@ Version      : 1.0
                 $(this).collapse('hide');
             }
         });
-        $('body').scrollspy({
-            target: '.navbar-collapse',
-            offset: 195
-        });
+        // $('body').scrollspy({
+        //     target: '.navbar-collapse',
+        //     offset: 195
+        // });
 
 
         
