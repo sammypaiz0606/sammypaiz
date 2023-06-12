@@ -46,7 +46,7 @@
         visibility: visible;
     }
     .navbar-toggle .icon-bar {
-        background: #008700;
+        background: #000;
     }
     .navbar-toggle {
         margin-top: -26px;
@@ -75,7 +75,7 @@
         background: rgba(0, 135, 0, 1);
     }
     .menu-bg .navbar-collapse {
-        background: rgba(0, 0, 0, .9);
+        /* background: rgba(0, 0, 0, .9); */
     }
     .welcome-image-area,
     .welcome-video-area {
